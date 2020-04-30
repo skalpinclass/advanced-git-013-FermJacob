@@ -16,8 +16,6 @@ This section is for some git related links.
 - Uses vim as the default editor
 - Is a cmd tool
 - Was written in linux for linux, doesn't play nice with Windows
-<<<<<<< HEAD
-=======
 
 ## Merge Tools
 
@@ -30,4 +28,3 @@ This section is for some git related links.
 - VS Code
 - vimdiff
 - Beyond Compare
->>>>>>> update readme
